@@ -1,5 +1,5 @@
 .. image:: http://pybee.org/project/projects/bridges/voc/voc.png
-    :width: 72px
+    :width: 100px
     :target: https://pybee.org/voc
 
 VOC
